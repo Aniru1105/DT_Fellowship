@@ -35,7 +35,7 @@ Each prompt includes:
 🔹 2 persuasion principles  
 🔹 A counter-prompt to avoid generic output
 
-[![View Solution](https://img.shields.io/badge/View%20Solution-01_Prompt_Engineering_AIDCA.md-brightgreen)](./01_Prompt_Engineering_AIDCA.md)
+[![View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)
 
 ---
 
