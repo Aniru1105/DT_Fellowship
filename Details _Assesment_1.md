@@ -124,6 +124,36 @@ Please do **not**:
 
 </div>
 
+## 🎯 Persona:
+A small-town retail founder running a chain of 7-10 outlets. Driven by ambition, wary of consultant-speak, and prefers direct, action-oriented help.
+
+---
+
+## 🔤 AI Prompt 02 – For a Founder of a Tier-2 Retail Chain
+
+Write an outbound B2B email to a **founder of a Tier-2 retail chain**.
+
+Use the **AIDCA model**:
+
+- **Attention**: Begin with a ground-level pain: "Margins shrink fast when inventory runs slow"
+- **Interest**: Show how local chains are missing easy wins (like smart restocking or loyalty tracking)
+- **Desire**: Describe what 15% better inventory turns or repeat sales could look like
+- **Conviction**: Mention similar clients in Tier-2 (e.g., “We worked with a 9-store chain in Gwalior”)
+- **Action**: Offer a free diagnostic: “Want us to send a 2-page ops scan for free?”
+
+Use **Cialdini Principles**:
+- **Liking**: “I’m from Indore — grew up around family-run stores like yours”
+- **Reciprocity**: “Happy to audit your POS data for free and share insights”
+
+Sentiment Angle: **Relatability + Local Trust**  
+Tone: **Straight, no-buzzword, helpful founder voice**
+
+Avoid:
+- Overly formal or “MBA-style” messaging
+- Charts, links, or tools in the first email
+- Any hint of “we know better than you”
+
+
 ---
 
 ### ✅ Final Output
