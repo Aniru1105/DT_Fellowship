@@ -40,7 +40,7 @@ Each prompt includes:
 ---
 
 ## 🔍 Funnel Debugging via Prompt-Based Diagnosis  
-`Tools:` ![SQL](https://img.shields.io/badge/Funnel-Mapping-yellow) ![MachineLearning](https://img.shields.io/badge/MMF-Logic-blue)
+`Tools:` ![VS_CODE](https://img.shields.io/badge/Funnel-Mapping-blue) ![Analysis](https://img.shields.io/badge/MMF-Logic-yellow)
 
 **📝 Task Brief:**  
 Simulate lead conversion drop-off scenarios and identify why SQLs aren't converting. Write corrective prompts and diagnose where the message misfired.
@@ -52,7 +52,7 @@ I simulated 3 funnel lines with:
 - Revised prompts with clear fixes  
 This let me identify where tone, trust, or CTA needed a shift.
 
-[![View Solution](https://img.shields.io/badge/View%20Solution-02_Funnel_Diagnosis_and_Fix.md-brightgreen)](./02_Funnel_Diagnosis_and_Fix.md)
+[![View Solution](https://img.shields.io/badge/View%20Solution-02_Funnel_Debugging_MMFDiagnosis.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Funnel_Debugging_MMFDiagnosis.md)
 
 ---
 
