@@ -68,7 +68,7 @@ I created a boardroom-style wireframe that:
 - Diagnoses by campaign and AIDCA stage  
 - Surfaces strategic recommendations
 
-[![View Dashboard](https://img.shields.io/badge/View%20Solution-03_Dashboard_Wireframe.pdf-brightgreen)](./03_Dashboard_Wireframe.pdf)
+[![View Dashboard & Solution](https://img.shields.io/badge/View%20Solution-03_Assignment_03.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Assignment_03.md)
 
 ---
 
