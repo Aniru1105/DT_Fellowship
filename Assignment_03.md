@@ -24,8 +24,7 @@ I’m designing a strategic dashboard that offers **leadership-level insights** 
 - Are our **messages resonating** at each funnel stage?
 - Where should **leadership intervene**?
 
-🔘 [![Wireframe Design-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)  
-🔘 [![Persona Hypothesis Mapping-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)  
+🔘 [![Wireframe Design-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Details_Assignment_03-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/Assignment_03_branch/Details_Assignment_03.md)  
 
 ---
 
