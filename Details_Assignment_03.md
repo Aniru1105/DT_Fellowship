@@ -78,6 +78,6 @@ To simulate a real-world B2B outreach campaign analysis, we’ve created an Exce
 
 ---
 
-📁 File Structure (Excel): [![View Excel File](https://img.shields.io/badge/View%20Solution-01_Details%20_Excel_file.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)
+📁 File Structure (Excel): [![View Excel File](https://img.shields.io/badge/View%20Solution-01_Details%20_Excel_file_branch/B2B_Outreach_Mock_Data-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/Assignment_03_branch/B2B_Outreach_Mock_Data.xlsx)
 
 
