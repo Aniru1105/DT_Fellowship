@@ -35,7 +35,7 @@ I’m designing a strategic dashboard that offers **leadership-level insights** 
 - Track conversion rates at each stage  
 - Use bar charts + funnel visual
 
-🔘 [![Funnel Metrics Power BI File-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md) 
+🔘 [![Funnel Metrics Power BI File-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_PowerBI_Dashboard-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/Assignment_03_branch/Dl_Fellowship.pdf) 
 
 ---
 
