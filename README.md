@@ -81,7 +81,7 @@ Reflect in 200 words — how did my prompting and mindset shape this whole exerc
 **✅ What I Did:**  
 I distilled how my thinking evolved during this process and how I’d approach this role not just as an analyst — but a systems-builder using AI for leverage.
 
-[![Read Summary](https://img.shields.io/badge/View%20Summary-04_Strategic_Summary.md-brightgreen)](./04_Strategic_Summary.md)
+[![Read Summary](https://img.shields.io/badge/View%20Summary-04_Strategic_Summary.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Summary.md)
 
 ---
 
