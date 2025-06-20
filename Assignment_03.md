@@ -51,8 +51,6 @@ I’m designing a strategic dashboard that offers **leadership-level insights** 
 - Break down campaign performance by each stage  
 - Tag campaigns with most drop-off and diagnose AIDCA gaps  
 
-🔘 [![AIDCA Diagnosis View-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)  
-🔘 [![Campaign-level Insights Export-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)
 
 ---
 
@@ -65,7 +63,6 @@ I’m designing a strategic dashboard that offers **leadership-level insights** 
 - Design a card-based layout for each decision point:
   - **Metric Triggered → Insight → Suggested Action**
 
-🔘 [![Strategic Decision Cards-View Solution](https://img.shields.io/badge/View%20Solution-01_Details%20_Assesment_1.md-brightgreen)](https://github.com/Aniru1105/DT_Fellowship/blob/main/Details%20_Assesment_1.md)
 
 --- 
 ---
